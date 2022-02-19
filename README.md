@@ -19,6 +19,7 @@
 1. Operations Research
 2. Data Mining
 3. Machine Learning
+4. Deep Learning
 
 
 <!---
