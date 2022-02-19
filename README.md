@@ -14,8 +14,11 @@
 
 -----
 
-Portfolio Guide:
+**Coursework Portfolio Index:**
 
+1. Operations Research
+2. Data Mining
+3. Machine Learning
 
 
 <!---
