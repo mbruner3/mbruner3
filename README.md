@@ -14,12 +14,12 @@
 
 -----
 
-**Coursework Portfolio Index:**
+**Coursework Portfolio**
+I choose projects I completed during my coursework to show my knowledge of R, Python, Machine Learning, Deep Learning, Operations Research, and Data Mining/Wrangling.
 
-1. Operations Research
-2. Data Mining
-3. Machine Learning
-4. Deep Learning
+**Personal Website**
+I created a [website](https://markbruner.io) with GitHub Pages and you can find more recent personal projects.
+
 
 
 <!---
